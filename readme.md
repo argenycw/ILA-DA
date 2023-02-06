@@ -186,7 +186,7 @@ CIFAR10 & CIFAR100:
 If you find our work helpful in your research, please cite the following:
 ```
 @inproceedings{yan2023ilada,
-    title = {ILA-DA: Improving Transferability of Intermediate Level Attack with Data Augmentation},
+    title = {{ILA-DA}: Improving Transferability of Intermediate Level Attack with Data Augmentation},
     author={Yan, Chiu Wai and Cheung, Tsz-Him and Yeung, Dit-Yan},
     booktitle={ICLR},
     year={2023},
