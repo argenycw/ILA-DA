@@ -61,7 +61,7 @@ ila-da/
     ├── cifar100_batches.pt        
     └── cifar100_labels.pt
 ```
-We adopt Bearpaw for the [model definitions](https://github.com/bearpaw/pytorch-classification/tree/master/models) and [pretrained model weights](https://mycuhk-my.sharepoint.com/personal/1155056070_link_cuhk_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1155056070%5Flink%5Fcuhk%5Fedu%5Fhk%2FDocuments%2Frelease%2Fpytorch%2Dclassification%2Fcheckpoints&ga=1). The `.pt` files for CIFAR10 and CIFAR100 can be downloaded [here]().
+We adopt Bearpaw for the [model definitions](https://github.com/bearpaw/pytorch-classification/tree/master/models) and [pretrained model weights](https://mycuhk-my.sharepoint.com/personal/1155056070_link_cuhk_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1155056070%5Flink%5Fcuhk%5Fedu%5Fhk%2FDocuments%2Frelease%2Fpytorch%2Dclassification%2Fcheckpoints&ga=1). The `.pt` files for CIFAR10 and CIFAR100 can be downloaded [here](https://hkustconnect-my.sharepoint.com/:f:/g/personal/cwyan_connect_ust_hk/Emr-zwxiFIZHib5bLR2IVqcBXs_xD-R-cijh_ugMoMCazw?e=zGDU9c).
 
 To run attack on CIFAR10 and CIFAR100, run `attack_cifar.py` instead. Most of the commands are just the same as `attack.py`.
 
